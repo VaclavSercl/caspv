@@ -2,8 +2,8 @@
 
 Měsíční redakční příprava Sdělení České asociace Sport pro všechny.
 
-Aktuální výstup: `Sdeleni_CASPV_zari_2026_v4.pdf` (6 stran, redakční návrh).
-Zářijové číslo je zpětný návrh k 1. 9. 2026 s odděleně datovaným doplněním metodické rady ze 17. 9. 2026.
+Aktuální výstup: `Sdeleni_CASPV_zari_2026.pdf` (6 stran, konečná redakční verze).
+Zářijové číslo je zpětné vydání k 1. 9. 2026 s odděleně datovaným doplněním metodické rady ze 17. 9. 2026.
 
 ## Obsah repozitáře
 - `output/`: zdrojový text vydání.
