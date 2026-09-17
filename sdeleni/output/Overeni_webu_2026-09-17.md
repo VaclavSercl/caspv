@@ -233,4 +233,4 @@ Vedle webu a podkladů ČASPV sledujeme [Českou unii sportu](https://www.cuscz.
 
 ## Praha - doplněný krajský zdroj
 
-https://www.spvpraha.cz/ ověřeno 17. 9. 2026. Aktuální načtení ukázalo podzimní kalendář s rozlišením pozvánek a předběžných termínů. Starší vyhledávací výsledek obsahoval odlišnou podobu stránky; použit byl nově načtený obsah. Zařazena samostatná stránka Praha, bez přepisu osobních výsledků závodníků.
+https://www.spvpraha.cz/ ověřeno 17. 9. 2026. Aktuální načtení ukázalo podzimní kalendář s rozlišením pozvánek a předběžných termínů. Starší vyhledávací výsledek obsahoval odlišnou podobu stránky; použit byl nově načtený obsah. Zařazeny tři pražské akce do společných krajských tabulek; samostatná stránka Prahy byla na žádost uživatele odstraněna. Bez přepisu osobních výsledků závodníků.

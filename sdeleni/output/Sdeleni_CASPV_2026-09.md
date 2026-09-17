@@ -100,6 +100,7 @@ Přehled doplňuje centrální akce na předchozích stranách. Termíny přihl�
 | 17. 10. | [Seminář sportovní gymnastiky](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/moravskoslezska-kaspv/kalendar-akci/2534-seminar-sportovni-gymnastiky-mskaspv.html) | Hala TJ Paskov | Uzávěrka neuvedena; příloha na webu |
 | 17. 10. | [Seniorské hry](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/liberecka-kaspv/kalendar-akci/2497-seniorske-hry.html) | Hala Semily | Do 17. 10. |
 | 17. 10. | [Seminář jógy](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/olomoucka-kaspv/kalendar-akci/1852-seminar-jogy.html) | Olomouc | Do 5. 10. |
+| 17. 10. | [Seminář zdravotní TV](https://www.spvpraha.cz/) | Praha, Sokol Žižkov II. | Program 10:00-16:00; prezence od 9:00 |
 | 24. 10. | [Šplh JmKASPV](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/jihomoravska-kaspv/kalendar-akci/2541-splh-jmkaspv.html) | Brno | Propozice se připravují |
 
 #### Sportovní hry seniorů v Olomouci - datum ověřte
@@ -112,7 +113,9 @@ Kemp Merkur, Pasohlávky-Mušov. **Řádná uzávěrka 13. září již uplynula
 | Datum | Akce | Místo | Přihlášení / stav |
 |---|---|---|---|
 | 7. 11. | [Florbal JmKASPV](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/jihomoravska-kaspv/kalendar-akci/2539-florbal-jmkaspv.html) | Brno | Do 4. 11.; propozice se připravují |
+| 7. 11. | [Sportovní hry seniorů a žactva](https://www.spvpraha.cz/) | Praha, Hala Lužiny | Předběžný termín; ověřit u SPV Praha |
 | 10. 11. | [Desetiboj předškoláků](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/liberecka-kaspv/kalendar-akci/2499-deseti-boj-predskolaku.html) | Česká Lípa | Do 10. 11. |
+| 17. 11. | [Míčový trojboj PD a RD](https://www.spvpraha.cz/) | Praha, Sokol Karlín | Předběžný termín; ověřit u SPV Praha |
 | 21. 11. | [Seminář zdravotní TV](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/liberecka-kaspv/kalendar-akci/2498-seminar-zdr-tv-.html) | TJ Rochlice | Do 21. 11. |
 | 23. 11. | [Podzimní Senioři v pohybu](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/jihomoravska-kaspv/kalendar-akci/2540-podzimni-seniori-v-pohybu.html) | Brno | Do 20. 11.; propozice se připravují |
 | 29. 11. | [Gymnastický dvojboj](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/liberecka-kaspv/kalendar-akci/2500-gymnasticky-dvojboj.html) | TJ Rochlice | Do 29. 11. |
@@ -122,31 +125,11 @@ Kemp Merkur, Pasohlávky-Mušov. **Řádná uzávěrka 13. září již uplynula
 #### Míčové hry v Českých Budějovicích - údaje k potvrzení
 Záznam pro ZŠ Pohůrecká obsahuje rozdílná listopadová a prosincová data a uzávěrku z roku 2025. Akci proto nepředkládáme jako potvrzenou pozvánku s konkrétním termínem. Aktuální podmínky ověřte u Jihočeské KASPV: **jihocesky@caspv.cz, 728 141 989**. [Záznam akce](https://www.caspv.cz/cz/sport-pro-vsechny-kaspv/jihoceska-kaspv/regiony/ceske-budejovice/kalendar-akci/1067-micove-hry.html).
 #### Kde sledovat krajské změny
-Kalendář ČASPV umožňuje výběr pořadatele, měsíce a typu činnosti. Před cestou či platbou zkontrolujte detail akce a aktuální přílohu. U záznamů „informace připravujeme“ nepovažujte samotné datum uzávěrky za potvrzení otevřených přihlášek.
+Před cestou či platbou ověřte propozice. Předběžné termíny nejsou potvrzením otevřených přihlášek. Praha: [spvpraha.cz](https://www.spvpraha.cz/), praha@caspv.cz, 725 928 820. PD = předškolní děti; RD = rodiče s dětmi.
 [Kalendář akcí](https://www.caspv.cz/cz/kalendar-akci/) • [souhrnná termínová listina KASPV](https://www.caspv.cz/cz/kalendar-akci/souhrnna-terminova-listina-kaspv/).
 #### Příprava nové sezony v odborech
 Zveřejněte rozvrh, místo cvičení, věkové zaměření a kontakt na cvičitele. Uveďte podmínky první návštěvy a dostupnost lekcí pro nové členy. ČASPV je partnerem Aktivního září 2026; zapojení do pravidelného pohybu může pokračovat i po skončení kampaně.
 Zdroj: [ČASPV partnerem Aktivního září 2026](https://www.aktivnicesko.cz/ceska-asociace-sport-pro-vsechny-je-i-letos-partnerem-aktivniho-zari-2026/). Tipy pro nábor jsou redakčním doporučením.
-
-<!-- PAGE -->
-### Z krajů: Praha
-#### SPV Praha: cvičení, kluby a podzimní program
-Na [spvpraha.cz](https://www.spvpraha.cz/) najdete přehled 22 klubů a jednot s výběrem podle oblasti, sportu a věkové skupiny. Rozvrhy, ceny a volná místa potvrzují jednotliví pořadatelé.
-#### Říjen a listopad 2026
-| Datum | Akce | Místo | Stav / informace |
-|---|---|---|---|
-| 17. 10. | Seminář zdravotní tělesné výchovy | Sokol Žižkov II., Na Balkáně 812 | Pozvánka; program 10:00-16:00, prezence od 9:00 |
-| 7. 11. | Sportovní hry seniorů a žactva | Hala Lužiny | Předběžný termín; podrobnosti u sekretariátu |
-| 8. 11. | Cvičíme nejen se seniory | ŠSKC ČASPV, Praha 5 | Pozvánka; podrobnosti v rubrice Vzdělávání |
-| 17. 11. | Míčový trojboj předškolních dětí a rodičů s dětmi | Sokol Karlín | Předběžný termín |
-| 21. 11. | Nový závodní program SG mužských složek | ŠSKC ČASPV, Praha 5 | Pozvánka; podrobnosti v rubrice Vzdělávání |
-| 21.-22. 11. | Republiková soutěž jednotlivců ve sportovní gymnastice | Sokol Žižkov II. | Pozvánka; soupisky a hudba do 6. 11. |
-| 21.-22. 11. | Dvojboj: stolní tenis a nohejbal | Slavoj Břevnov | Předběžný termín |
-
-**Předběžné termíny vycházejí z návrhu termínové listiny.** Před přihlášením či cestou potvrďte rozpis a podmínky u pořadatele. Web rozlišuje zveřejněné pozvánky a plánované akce.
-#### Kontakt a další informace
-**SPV Praha: praha@caspv.cz, +420 725 928 820.** Sekretariát sídlí na Ohradském náměstí 1628/7, Praha 5.
-Zdroj: [kalendář a nabídka klubů SPV Praha](https://www.spvpraha.cz/), ověřeno 17. 9. 2026. Pražský web zařazujeme mezi pravidelné zdroje rubriky Z krajů.
 
 <!-- PAGE -->
 ### Zprávy a inspirace pro cvičitele
