@@ -10,7 +10,7 @@ V září zahajujeme novou cvičební sezonu. Toto vydání přináší nejbliž
 
 | Do kdy | Co je potřeba udělat | Koho se týká | Kam se obrátit |
 |---|---|---|---|
-| **4. září** | Přihlásit se na seminář Jóga a dlouhověkost | Zájemci o seminář | [Přihláška](https://forms.gle/6xJJ9znu5KHYnaUj8), noskova@caspv.cz |
+| **Uzavřeno** | Jóga a dlouhověkost - **již se nelze přihlásit** | Zájemci o seminář | Uzávěrka byla 4. září. Kontakt: noskova@caspv.cz |
 | **13. září** | Odeslat přihlášku na Mölkky, Kubb a Woodball OPEN; kapacita může být naplněna dříve | Soutěžní týmy; týmy ČASPV prostřednictvím KASPV | frenky3@seznam.cz a virtova@caspv.cz |
 | **23. září** | Přihlásit se na seminář Sebeobrana pro všechny | Zájemci od 12 let | [Pozvánka a přihlášení](https://www.caspv.cz/cz/kalendar-akci/2533-seminar-sebeobrana-pro-vsechny.html) |
 | **15. listopadu** | Aktualizovat členskou základnu v evidenci | KASPV ve spolupráci s regiony a odbory SPV | Členská evidence ČASPV |
@@ -42,7 +42,7 @@ Zdroj: [Usnesení valné hromady ČASPV ze dne 24. května 2026](https://www.cas
 
 **19.–20. září 2026, Poděbrady, Boučkova 355.** Seminář propojuje jógovou praxi, mobilitu, práci s dechem a další témata uvedená v programu. Účastnický poplatek činí 1 650 Kč pro členy ČASPV a bývalé členy Unie jógy, pro ostatní 1 950 Kč. Ubytování a stravování se hradí zvlášť.
 
-Přihlášky do **4. září**. Kontakt: Tereza Nosková, noskova@caspv.cz, 604 286 104. [Úplná pozvánka](https://www.caspv.cz/download/action/pozvanka-seminar-joga-a-dlouhovekost-19-20-9-2026-4185.pdf).
+**Přihlašování je uzavřeno - již se nelze přihlásit.** Uzávěrka přihlášek byla **4. září 2026**. Kontakt: Tereza Nosková, noskova@caspv.cz, 604 286 104. [Úplná pozvánka](https://www.caspv.cz/download/action/pozvanka-seminar-joga-a-dlouhovekost-19-20-9-2026-4185.pdf).
 
 #### Mölkky Kubb a Woodball OPEN
 
