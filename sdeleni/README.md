@@ -27,3 +27,5 @@ Interní redakční koncepce zůstává v místní složce mimo veřejný repozi
 Původní e-mail, interní podklady, pracovní soubory a starší pracovní PDF zůstávají místně mimo Git. Logo a fotografie jsou materiály ČASPV; repozitář jim neuděluje novou licenci.
 
 Pravidelné externí zdroje: ČUS, NSA, ministrsportu.cz, DZS a příručka Erasmus+. Vydání rozlišuje platné povinnosti, otevřené příležitosti a připravované změny.
+
+Rubrika Z krajů - Praha: pravidelně kontrolovat https://www.spvpraha.cz/ včetně kalendáře a odkazovaných propozic; rozlišovat pozvánky a předběžnou termínovou listinu.

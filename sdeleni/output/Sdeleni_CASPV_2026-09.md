@@ -129,6 +129,26 @@ Zveřejněte rozvrh, místo cvičení, věkové zaměření a kontakt na cvičit
 Zdroj: [ČASPV partnerem Aktivního září 2026](https://www.aktivnicesko.cz/ceska-asociace-sport-pro-vsechny-je-i-letos-partnerem-aktivniho-zari-2026/). Tipy pro nábor jsou redakčním doporučením.
 
 <!-- PAGE -->
+### Z krajů: Praha
+#### SPV Praha: cvičení, kluby a podzimní program
+Na [spvpraha.cz](https://www.spvpraha.cz/) najdete přehled 22 klubů a jednot s výběrem podle oblasti, sportu a věkové skupiny. Rozvrhy, ceny a volná místa potvrzují jednotliví pořadatelé.
+#### Říjen a listopad 2026
+| Datum | Akce | Místo | Stav / informace |
+|---|---|---|---|
+| 17. 10. | Seminář zdravotní tělesné výchovy | Sokol Žižkov II., Na Balkáně 812 | Pozvánka; program 10:00-16:00, prezence od 9:00 |
+| 7. 11. | Sportovní hry seniorů a žactva | Hala Lužiny | Předběžný termín; podrobnosti u sekretariátu |
+| 8. 11. | Cvičíme nejen se seniory | ŠSKC ČASPV, Praha 5 | Pozvánka; podrobnosti v rubrice Vzdělávání |
+| 17. 11. | Míčový trojboj předškolních dětí a rodičů s dětmi | Sokol Karlín | Předběžný termín |
+| 21. 11. | Nový závodní program SG mužských složek | ŠSKC ČASPV, Praha 5 | Pozvánka; podrobnosti v rubrice Vzdělávání |
+| 21.-22. 11. | Republiková soutěž jednotlivců ve sportovní gymnastice | Sokol Žižkov II. | Pozvánka; soupisky a hudba do 6. 11. |
+| 21.-22. 11. | Dvojboj: stolní tenis a nohejbal | Slavoj Břevnov | Předběžný termín |
+
+**Předběžné termíny vycházejí z návrhu termínové listiny.** Před přihlášením či cestou potvrďte rozpis a podmínky u pořadatele. Web rozlišuje zveřejněné pozvánky a plánované akce.
+#### Kontakt a další informace
+**SPV Praha: praha@caspv.cz, +420 725 928 820.** Sekretariát sídlí na Ohradském náměstí 1628/7, Praha 5.
+Zdroj: [kalendář a nabídka klubů SPV Praha](https://www.spvpraha.cz/), ověřeno 17. 9. 2026. Pražský web zařazujeme mezi pravidelné zdroje rubriky Z krajů.
+
+<!-- PAGE -->
 ### Zprávy a inspirace pro cvičitele
 #### Rozhýbej rodinu: ohlédnutí za Holešovicemi
 ČASPV zveřejnila 4. září reportáž z rodinného odpoledne na hřišti Visionary. Rodiny zkoušely pohybová stanoviště, obruče, švihadla, balanční pomůcky a netradiční sporty. Zpráva je inspirací pro mezigenerační akce; navazuje na ni pozvánka na další setkání **30. září v Praze 7**.

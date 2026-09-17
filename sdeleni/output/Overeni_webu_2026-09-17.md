@@ -229,3 +229,8 @@ Web ministra pro sport 7. září oznámil schválení návrhu na podpis Macolin
 Zdroj: [ministr pro sport - úmluva proti manipulaci sportu](https://ministrsportu.cz/aktuality/vlada-schvalila-umluvu-rady-evropy-o-boji-proti-manipulaci-sportu).
 #### Pravidelně sledované zdroje
 Vedle webu a podkladů ČASPV sledujeme [Českou unii sportu](https://www.cuscz.cz/), [Národní sportovní agenturu](https://nsa.gov.cz/), [ministra pro sport](https://ministrsportu.cz/) a [Dům zahraniční spolupráce](https://www.dzs.cz/). U dotací vždy rozhoduje konkrétní výzva a rozhodnutí; u připravovaných opatření uvádíme jejich aktuální stav.
+
+
+## Praha - doplněný krajský zdroj
+
+https://www.spvpraha.cz/ ověřeno 17. 9. 2026. Aktuální načtení ukázalo podzimní kalendář s rozlišením pozvánek a předběžných termínů. Starší vyhledávací výsledek obsahoval odlišnou podobu stránky; použit byl nově načtený obsah. Zařazena samostatná stránka Praha, bez přepisu osobních výsledků závodníků.
